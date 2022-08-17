@@ -1,4 +1,4 @@
-Hi, I'm Naman, a passionate technology enthusiast with experience in building and deploying high complexity products. I'm a self-taught Full Stack Web Developer with experience in developing and implementing Decentralised Blockchain Web Applications using Eth.
+Hi, I'm Naman, a passionate technology enthusiast with experience in building and deploying high complexity products. I'm a self-taught Full Stack Web Developer with experience in developing and implementing Decentralised Blockchain Web Applications using Ethereum.
 
 
 
